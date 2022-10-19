@@ -5,13 +5,13 @@ body {
   }
   
   h1 {
-    font-size: 40px;
+    font-size: 30px;
     margin-top: 0;
     margin-bottom: 15px;
   }
   
   h2 {
-    font-size: 30px;
+    font-size: 25px;
   }
   
   .established {
@@ -28,7 +28,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
-    max-width: 500px;
+    max-width: 499px;
   }
   
   img {
